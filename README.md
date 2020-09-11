@@ -20,12 +20,19 @@
 ### Languages and Tools I use:
 
 <img align=“left” alt=“JavaScript” width=“26px” src=“https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png” />
+
 <img align=“left” alt=“Ruby” width=“26px” src=“https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png” />
+
 <img align=“left” alt=“Rails” width=“26px” src=“https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png” />
+
 <img align=“left” alt=“Postgresql” width=“34px” src=“https://img.icons8.com/color/48/000000/postgreesql.png” />
+
 <img align=“left” alt=“HTML5" width=“26px” src=“https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png” />
+
 <img align=“left” alt=“CSS3" width=“26px” src=“https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png” />
+
 <img align=“left” alt=“React” width=“26px” src=“https://img.icons8.com/plasticine/100/000000/react.png” />
+
 <img align=“left” alt=“MySQL” width=“35px” src=“https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png” />
 
 <br />
@@ -47,7 +54,7 @@
 <br />
 ---
 [instagram]: https://www.instagram.com/sebbekarsikko/
-[linkedin]: 
+[linkedin]: https://www.instagram.com/sebbekarsikko/
 [Facebook]: https://www.facebook.com/sebbekarsikko
 [Windows]: https://www.microsoft.com/
-[Linux]: 
+[Linux]: https://www.microsoft.com/
