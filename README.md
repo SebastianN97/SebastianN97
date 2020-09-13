@@ -1,18 +1,12 @@
 ### Welcome to my GitHub!
 
-<br />
-<br />
 
 ## Follwing my dreams of becoming a Developer
-
-<br />
 
 - 🇸🇪 Born and raised in Sweden.
 - 📍 Living in Gothenburg.
 - 💻 Started my development journey in 2020.
 
-<br />
-<br />
 
 ### My socials:
 [<img align="left" alt="Sebastian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
