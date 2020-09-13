@@ -1,7 +1,7 @@
 ### Welcome to my GitHub!
 
 
-## Follwing my dreams of becoming a Developer
+## Follwing my dream of becoming a Developer
 
 - 🇸🇪 Born and raised in Sweden.
 - 📍 Living in Gothenburg.
