@@ -3,7 +3,7 @@
 
 ## Following my dream of becoming a Developer
 
-- 🇸🇪 Born and raised in Sweden. 
+- 🇸🇪 Born and raised in Sweden.  
 - 📍 Living in Gothenburg.
 - 💻 Started my development journey in 2020.
 
