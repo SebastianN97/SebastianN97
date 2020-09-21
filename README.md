@@ -17,8 +17,6 @@
 
 ### OS that I use:
 
-[<img align="left" alt="Micrsoft" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/microsoft.svg" />][Windows]
-
 [<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/linux.svg" />][Linux]
 
 <br />
@@ -66,5 +64,4 @@
 
 [instagram]: https://www.instagram.com/sebbekarsikko/
 [Facebook]: https://www.facebook.com/sebbekarsikko/
-[Windows]: https://www.microsoft.com/
 [Linux]: https://www.linux.com/
