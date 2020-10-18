@@ -11,7 +11,7 @@
 ### My socials:
 [<img align="left" alt="Sebastian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="Sebastian | Linkedin" width="22px" src="https://https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sebastian | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />][linkedin]
 
 <br />
 
