@@ -1,11 +1,12 @@
 # Welcome to my GitHub!
 
 
-## Junior software developer based in Gothenburg, Sweden
+## Full Stack Software Developer based in Gothenburg, Sweden
 
-- 💻 Started my development journey in early 2020.
+- Born and raised in Sweden.
+- Started my development journey in early 2020.
 - Eager to learn new technologies.
-- Enjoying pair programming to the fullest
+- Enjoying pair programming to the fullest.
 
 
 ### My socials:
@@ -21,25 +22,13 @@
 
 <br />
 
-### Languages and Tools:
+### My Languages:
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 
-<img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
+<br />
 
-<img align="left" alt="React" width="26px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
-
-<img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/cypress.iconset/icon_32x32.png"/>
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Postgresql" width="34px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+### My Frameworks:
 
 
 <br />
