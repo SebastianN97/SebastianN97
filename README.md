@@ -11,6 +11,7 @@
 
 ### My Languages and Tools:
 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React-Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react-native)
@@ -23,7 +24,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Express.js](https://img.shields.io/badge/-Express-430098?style=flat-square)
 ![SemanticUI](https://img.shields.io/badge/-Semantic%20UI-430098?style=flat-square)
@@ -39,3 +39,8 @@
 ![PivotalTracker](https://img.shields.io/badge/-Pivotal%20Tracker-430098?style=flat-square&logo=pivotaltracker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown)
+
+---
+
+<img align="left" alt="Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SebastianN97&show_icons=true&hide_border=true" />
