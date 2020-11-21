@@ -9,23 +9,21 @@
 - Eager to learn new technologies.
 
 
-### My Languages:
+### My Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
-![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown)
-
-
-### My Frameworks:
-
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React-Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react-native)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
 ![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails)
+![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![RSpec](https://img.shields.io/badge/-RSpec-red?430098?style=flat-square)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Express.js](https://img.shields.io/badge/-Express-430098?style=flat-square)
 ![SemanticUI](https://img.shields.io/badge/-Semantic%20UI-430098?style=flat-square)
