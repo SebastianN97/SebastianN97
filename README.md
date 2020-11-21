@@ -44,3 +44,5 @@
 ---
 
 <img align="left" alt="Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SebastianN97&show_icons=true&hide_border=true" />
+
+---
