@@ -29,7 +29,6 @@
 ![SemanticUI](https://img.shields.io/badge/-Semantic%20UI-430098?style=flat-square)
 ![MaterialUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=materialui)
 ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
 ![Coveralls](https://img.shields.io/badge/-Coveralls-3F5767?style=flat-square&logo=coveralls)
@@ -39,8 +38,8 @@
 ![PivotalTracker](https://img.shields.io/badge/-Pivotal%20Tracker-430098?style=flat-square&logo=pivotaltracker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown)
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianN97&layout=compact)](https://github.com/SebastianN97/github-readme-stats)
 <img align="left" alt="Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SebastianN97&show_icons=true&hide_border=true" />
